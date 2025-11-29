@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover page/cover_page.jpg" width="800" alt="India General Election Results">
+</p>
+
+
 # Coffee Shop Sales Analysis — Excel Dashboard Project
 
 ## Project Overview
